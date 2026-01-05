@@ -23,3 +23,8 @@ QuizZapp - это простой квиз на JavaScript, который поз
    ```bash
    git clone https://github.com/ваш_пользователь/QuizZapp.git
 
+2. Перейдите в директорию проекта:
+   ```bash
+   cd QuizZapp
+
+3. Откройте index.html в вашем браузере
